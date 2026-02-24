@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm Kyna<br><br>🎓 Information Science Engineering student<br>📊 Aspiring Data Scientist<br><br>🚀 About Me<br><br>I am an Information Science Engineering student with a strong interest in data science and machine learning. I enjoy working with data to uncover insights and build solutions that address real-world problems.<br><br>My current skill set includes:<br><br>Python programming<br><br>Data analysis and visualization<br><br>Machine learning fundamentals<br><br>Working with popular Python libraries such as NumPy, Pandas, and Scikit-learn<br><br>I am continuously learning and improving my skills by building projects that focus on solving practical and meaningful problems.
 
 
